@@ -3,7 +3,7 @@
 
 const numbers = [2, 5, 7, 10, 34, 16, 879, 1];
 
-console.log('_____________sposób 1____________________________');
+console.log('_____________sposób ggggfgfgfgg 1____________________________');
 numbers.forEach(function(item) {
   console.log(item);
 });
